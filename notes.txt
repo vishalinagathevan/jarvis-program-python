@@ -1,0 +1,9 @@
+Imports should be grouped in the following order:
+
+standard library imports
+related third party imports
+local application/library specific imports
+
+pip install isort
+After installed you can yous this commands <isort your_script.py
+>

@@ -1,0 +1,18 @@
+pip install pyttsx3==2.90
+pip install --upgrade pyttsx3
+pip install pyttsx3==2.71  ----> ok
+
+
+
+pip install SpeechRecognition==3.10.0
+pip install datetime==5.3
+pip install wikipedia==1.4.0
+# pip install webbrowser(or)pip install pycopy-webbrowser==0.0.0
+
+
+pip install pylint
+
+
+
+pip install pipwin==0.5.2
+pipwin install pyaudio==0.2.14
